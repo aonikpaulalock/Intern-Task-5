@@ -1,0 +1,64 @@
+[
+  {
+    "id": "EMP001",
+    "frist":"Alex",
+    "last":"Whatman",
+    "brith":"24/11/1986",
+    "adress":"Seatlle",
+    "joining":"20/07/2010",
+    "salary":"30000",
+    "designation":"VP, Academics"
+  },
+  {
+    "id": "EMP002",
+    "frist":"Richard",
+    "last":"Nolki",
+    "brith":"22/08/1978",
+    "adress":"Washington",
+    "joining":"21/03/2001",
+    "salary":"4500",
+    "designation":"SVP, Sales"
+  },
+  {
+    "id": "EMP003",
+    "frist":"Thomas",
+    "last":"Edison",
+    "brith":"04/11/2001",
+    "adress":"Seatlle",
+    "joining":"21/04/2001",
+    "salary":"15000",
+    "designation":"SDE, Retail"
+  },
+  {
+    "id": "EMP004",
+    "frist":"Jenifer",
+    "last":"Lawson",
+    "brith":"09/03/1998",
+    "adress":"Washington",
+    "joining":"01/02/2000",
+    "salary":"12000",
+    "designation":"HR Executive"
+  },
+  {
+    "id": "EMP005",
+    "frist":"Mudit",
+    "last":"Goyal",
+    "brith":"10/04/1995",
+    "adress":"Washington",
+    "joining":"01/02/2000",
+    "salary":"20000",
+    "designation":"Lead Developer"
+  },
+  {
+    "id": "EMP006",
+    "frist":"Jossin",
+    "last":"George",
+    "brith":"19/01/2000",
+    "adress":"Seatlle",
+    "joining":"05/03/2020",
+    "salary":"14000",
+    "designation":"Director, Engineering"
+  }
+  
+
+]

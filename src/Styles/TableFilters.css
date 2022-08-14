@@ -1,0 +1,64 @@
+.schedule-main-heading {
+  font-family: 'Dela Gothic One';
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 48px;
+  line-height: 70px;
+  text-align: center;
+  color: var(--first-primary-color);
+  margin-bottom: 49px;
+}
+
+.table-heading-back {
+  background-color: var(--first-primary-color);
+  border-left: none !important;
+}
+
+.table-sub-head th {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 33px 28px !important;
+  border-width: 0px 0px !important;
+}
+
+.table-time {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 16px;
+  line-height: 19px;
+  color: #0A071B !important;
+}
+
+td {
+  padding: 23px !important;
+}
+td:hover {
+  background-color: #f1f0f7;
+  cursor: pointer;
+}
+
+.tainingg{
+  font-family: 'Inter' !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  line-height: 19px !important;
+  color: var(--first-primary-color) !important;
+  margin: 0 !important;
+  padding-bottom: 10px;
+}
+
+.tainer {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 14px;
+  line-height: 17px;
+  color: #5B5675;
+}
