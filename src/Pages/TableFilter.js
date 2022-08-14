@@ -5,28 +5,28 @@ const TableFilter = ({ employe }) => {
   return (
     <tr>
       <td>
-        <h6 className="table-time">{id}</h6>
+        <h6 className="employ-id">{id}</h6>
       </td>
       <td>
-        <h6 className="tainingg">{frist}</h6>
+        <h6 className="employ-details">{frist}</h6>
       </td>
       <td>
-        <h6 className="tainingg">{last}</h6>
+        <h6 className="employ-details">{last}</h6>
       </td>
       <td>
-        <h6 className="tainingg">{brith}</h6>
+        <h6 className="employ-details">{brith}</h6>
       </td>
       <td>
-        <h6 className="tainingg">{adress}</h6>
+        <h6 className="employ-details">{adress}</h6>
       </td>
       <td>
-        <h6 className="tainingg">{joining}</h6>
+        <h6 className="employ-details">{joining}</h6>
       </td>
       <td>
-        <h6 className="tainingg">$ {salary}</h6>
+        <h6 className="employ-details">$ {salary}</h6>
       </td>
       <td>
-        <h6 className="tainingg">{designation}</h6>
+        <h6 className="employ-details">{designation}</h6>
       </td>
     </tr>
   );
