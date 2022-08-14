@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+## Searching Table Filtering Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Live Demo
+This project was bootstrapped with 
+
+# Feature
+* Creating react list of employees in a table format.
+* Also implement searching and filtering of the employees in the table.
+
+# Used Technology
+* React
+* React Dom
+* React-Bootstrap
+* Bootstrap
+
+
+
+
+
+
 
 ## Available Scripts
 

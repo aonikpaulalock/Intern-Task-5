@@ -31,7 +31,7 @@ const TableFilters = ({ employes }) => {
         <input
           className="form-control input-field"
           type="search"
-          placeholder="Search Your Employes"
+          placeholder="Search Your Employees"
           aria-label="Search"
           onChange={handleSearch}
         />
@@ -44,7 +44,8 @@ const TableFilters = ({ employes }) => {
 
       {/*   ================== 
                     Table 
-             ================== */}
+             ================== 
+     */}
 
       <div className="container-fluid">
         <div className="table-responsive">
