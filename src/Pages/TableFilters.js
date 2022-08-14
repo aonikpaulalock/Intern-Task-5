@@ -3,21 +3,21 @@ import { Table } from 'react-bootstrap';
 import TableFilter from "../Pages/TableFilter"
 import "../Styles/TableFilters.css"
 const TableFilters = ({ employes }) => {
-  // const [search, setSearch] = useState('');
+  const [search, setSearch] = useState('');
 
-  // const handleSearch = (event) => {
-  //   setSearch(event.target.value);
-  // };
+  const handleSearch = (event) => {
+    setSearch(event.target.value);
+  };
 
-  // const datas = (employe) => {
-  //   return employe.filter((item) =>
-  //     item.frist.toLowerCase().includes(search.toLowerCase()) || 
-  //     item.last.toLowerCase().includes(search.toLowerCase()) ||
-  //     item.adress.toLowerCase().includes(search.toLowerCase()) ||
-  //     item.salary.toLowerCase().includes(search.toLowerCase()) ||
-  //     item.designation.toLowerCase().includes(search.toLowerCase())
-  //   )
-  // };
+  const datas = (employe) => {
+    return employe.filter((item) =>
+      item.frist.toLowerCase().includes(search.toLowerCase()) || 
+      item.last.toLowerCase().includes(search.toLowerCase()) ||
+      item.adress.toLowerCase().includes(search.toLowerCase()) ||
+      item.salary.toLowerCase().includes(search.toLowerCase()) ||
+      item.designation.toLowerCase().includes(search.toLowerCase())
+    )
+  };
   return (
     <div className="table-container">
       <h1 className="schedule-main-heading">Find Employees</h1>
